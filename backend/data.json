@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "username": "John",
+      "created_at": "2025-12-16T10:54:23.501584"
+    },
+    {
+      "username": "Sarah",
+      "created_at": "2025-12-16T10:54:23.501967"
+    },
+    {
+      "username": "Alice",
+      "created_at": "2025-12-16T10:59:17.883355"
+    },
+    {
+      "username": "jalaj",
+      "created_at": "2025-12-16T12:16:35.175639"
+    },
+    {
+      "username": "alice",
+      "created_at": "2025-12-16T12:20:25.164698"
+    },
+    {
+      "username": "Jalaj Sharma",
+      "created_at": "2025-12-16T13:44:56.613488"
+    },
+    {
+      "username": "kua",
+      "created_at": "2025-12-16T13:46:54.983604"
+    }
+  ],
+  "tasks": {
+    "John": [],
+    "Sarah": [],
+    "Alice": [
+      {
+        "id": "f283912f-6910-4739-9836-663d71c10550",
+        "title": "Task C",
+        "completed": false,
+        "created_at": "2025-12-16T11:25:15.294490"
+      },
+      {
+        "id": "7ff07b8f-2cfa-4ae4-9d95-227ce5c4599b",
+        "title": "Task A",
+        "completed": false,
+        "created_at": "2025-12-16T11:25:15.271902"
+      },
+      {
+        "id": "d46ba0bf-8262-40a4-9dc3-94e71fe3de1a",
+        "title": "Task B",
+        "completed": false,
+        "created_at": "2025-12-16T11:25:15.285055"
+      },
+      {
+        "id": "cb5a949d-2c62-4d0b-9bc8-18d4abd5289a",
+        "title": "Updated Task Name",
+        "completed": false,
+        "created_at": "2025-12-16T11:19:14.468275"
+      }
+    ],
+    "jalaj": [
+      {
+        "id": "6f3ab045-c984-4a14-ac42-22606bb4daed",
+        "title": "hiuh",
+        "completed": true,
+        "created_at": "2025-12-16T14:17:27.781199"
+      },
+      {
+        "id": "7424535e-089a-4ab5-a8f6-b96a3f833d7f",
+        "title": "gkk",
+        "completed": true,
+        "created_at": "2025-12-16T14:17:24.611477"
+      },
+      {
+        "id": "27ecabc3-8475-4ae4-bd69-7fa90e7a1756",
+        "title": "adsgsdg",
+        "completed": true,
+        "created_at": "2025-12-16T14:42:25.544058"
+      },
+      {
+        "id": "20be25eb-358d-4be9-9399-0e065388fe8a",
+        "title": "sdgsdg",
+        "completed": true,
+        "created_at": "2025-12-16T14:42:28.342804"
+      },
+      {
+        "id": "df747e74-fff8-4902-bd49-671309223e95",
+        "title": "gdssdgsd",
+        "completed": false,
+        "created_at": "2025-12-16T14:42:30.466579"
+      }
+    ],
+    "alice": [
+      {
+        "id": "3a66434e-d6cf-4cb6-a9c4-09bd6a6c7868",
+        "title": "create a alarm",
+        "completed": false,
+        "created_at": "2025-12-16T12:20:38.241132"
+      }
+    ],
+    "Jalaj Sharma": [],
+    "kua": []
+  }
+}
