@@ -23,6 +23,16 @@ def root():
     return {"message": "Task Board API"}
 
 
+@app.get("/health")
+def health_check():
+    """Health check endpoint to verify API is running"""
+    return {
+        "status": "healthy",
+        "message": "Task Board API is running",
+        "version": "1.0.0"
+    }
+
+
 @app.get("/api/users")
 def list_users():
     """Get all users"""

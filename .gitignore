@@ -37,4 +37,4 @@ ENV/
 Thumbs.db
 
 # Project specific
-backend/data.json
+# backend/data.json (commented out - we need this for deployment)
